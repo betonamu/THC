@@ -10,7 +10,8 @@ namespace THC
     {
         static void Main(string[] args)
         {
-            //Bai tap 2 - Nhom THC :https://github.com/betonamu/THC.git
+            //Bai tap 2 - Nhom THC
+            //Khoi tao project
         }
     }
 }

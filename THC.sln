@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THC", "THC\THC.csproj", "{601F9655-69CB-42EE-85CB-C140B8B8E3A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{887F198F-5B9F-4EB1-BE23-03A9C9624D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{601F9655-69CB-42EE-85CB-C140B8B8E3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{601F9655-69CB-42EE-85CB-C140B8B8E3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{601F9655-69CB-42EE-85CB-C140B8B8E3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887F198F-5B9F-4EB1-BE23-03A9C9624D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887F198F-5B9F-4EB1-BE23-03A9C9624D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887F198F-5B9F-4EB1-BE23-03A9C9624D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887F198F-5B9F-4EB1-BE23-03A9C9624D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
